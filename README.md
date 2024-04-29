@@ -27,20 +27,20 @@ Dataset link - https://bit.ly/34SRn3b
 **Player :-** 
 1.Chris Gayle has won the maximum number of player of the match title. 
 2.The highest number of six hit by player is CH gayle. 
-3.Top leading run scorer in IPL are Virat kholi, SK Raina, RG Sharma 
-4.Dismissals in IPL was most by Catch out 
+3.Top leading run scorer in IPL are Virat kholi, SK Raina, RG Sharma. 
+4.Dismissals in IPL was most by Catch out.
 5.S. Ravi(Sundaram Ravi) has officiated the most number of IPL matches on-field. 
 6.The highest number of matches played by player name are SK Raina, RG Sharma 
-7.Malinga has taken the most number of wickets in IPL 
+7.Malinga has taken the most number of wickets in IPL.
 8.H. singh holds the record of most dot balls. 
 9.From the top 3 player analysis Suresh Raina is most consistant player. 
-10.M. S Dhoni involves in most number of dismissal as fielder by KD Karthik And RV utappa.
+10.M.S Dhoni involves in most number of dismissal as fielder by KD Karthik And RV utappa.
 
 Over-all conclusion :-
-1. Good in batsman - V Kohli, S Raina, Rohit Sharma , David Warner etc
-2. Game changer batsman - Chris Gayle, AB deVillers, R Sharma , MS Dhoni etc
-3. Best finisher - CH Gayle,KA Pollard, DA Warner,SR Watson,BB McCullum etc
-4. Well experience bowler - Harbhajan Singh ,A Mishra,PP Chawla ,R Ashwin,SL Malinga,DJ Bravo etc
-5. Wicket taker - Harbhajan Singh,SL Malinga,B Kumar,A Mishra,PP Chawla
+1. Good in batting - V Kohli, S Raina, Rohit Sharma , David Warner.
+2. Game changer batsman - Chris Gayle, AB deVillers, R Sharma , MS Dhoni.
+3. Best finishers - CH Gayle,KA Pollard, DA Warner,SR Watson,BB McCullum.
+4. Well experience bowlers - Harbhajan Singh ,A Mishra,PP Chawla ,R Ashwin,SL Malinga,DJ Bravo.
+5. Wicket takers - Harbhajan Singh,SL Malinga,B Kumar,A Mishra,PP Chawla
 
 Thank you
