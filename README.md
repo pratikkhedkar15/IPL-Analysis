@@ -1,16 +1,15 @@
-**Exploratory Data Analysis Indian Premier League**
+**Exploratory Data Analysis "Indian Premier League"**
 
 In this section, we have perform 'Exploratory Data Analysis - on dataset 'Indian Premier League'
 
 We have found here over-all information about the player as well as performance in IPL matches. you can run this code on your Jupyter notebook.
 
-And I have shared complete visualization part of the task using Matplotlib and Seaborn etc. And some more basic libraries like-pandas, numpy.
+And I have shared complete visualization part of the task using Matplotlib and Seaborn and also used some more basic libraries of pyhron like pandas, numpy.
 
 Dataset link - https://bit.ly/34SRn3b
 
-**Conclusion* 
+**Conclusion :-** 
 
-Teams & Factors 
 1.The highest number of match won by Mumbai Indians and has won the most number of toss. 
 2.After winning toss more teams decide to do fielding first. 
 3.Teams which Bowl first has higher chances of winning then the team which bat first. 
